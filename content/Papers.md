@@ -3,7 +3,7 @@ title: "Selected Publications"
 # author: wxie
 ---
 
-Here presents recent publications related to GLUES project, both with or without peer-review.
+Here presents recent publications related to the [GLUES](/projects/) project, both with or without peer-review.
 
 
 ## Peer-review

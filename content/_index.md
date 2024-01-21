@@ -8,7 +8,6 @@ title: Home
 
 <!-- Read more via [Tags](/tags/) or [CV](https://cv.xiewei.link) -->
 
-
 ## Publication
 
 [Selected Publications >>](/papers/)
@@ -31,6 +30,4 @@ Initializing Data Upload Sequence...
 Please Stand By for Galactic Information Influx.
 
 ---
-<!-- ![](images/Quotefancy.jpg) -->
-
-> Work is not an end in itself; there must always be time enough for love.
+![Work is not an end in itself; there must always be time enough for love.](images/Quotefancy.jpg)
