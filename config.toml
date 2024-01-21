@@ -1,8 +1,8 @@
-baseURL = "https://elizen.me/"
+baseURL = "https://work.xiewei.link/"
 languageCode = "en-us"
-title = "Elizen"
+title = "SAIL - SAiling Into the Land"
 theme = "ivy"
-disqusShortname = "elizen"
+disqusShortname = "wei"
 hasCJKLanguage = true
 enableEmoji = true
 footnotereturnlinkcontents = "↩"
@@ -14,34 +14,30 @@ footnotereturnlinkcontents = "↩"
 
 [menu]
   [[menu.main]]
-  name="电影"
-  url="/movies/"
+  name="Projs"
+  url="/#/"
   weight="1"
   [[menu.main]]
-  name="阅读"
-  url="/books/"
+  name="Papers"
+  url="/bibliography/"
   weight="2"
   [[menu.main]]
-  name="书目"
-  url="/bibliography/"
+  name="Talks"
+  url="/#/"
   weight="3"
   [[menu.main]]
-  name="归档"
-  url="/posts/"
+  name="Codings"
+  url="https://github.com/xiewei18"
   weight="4"
   [[menu.main]]
-  name="通讯"
-  url="/newsletter/"
+  name="Blog"
+  url="/posts/"
   weight="5"
-  [[menu.main]]
-  name="孩童"
-  url="/kids/"
-  weight="6"
 
 [params]
   # description abou this website
-  description = "There is only one thing in the world worse than being talked about, and that is not being talked about."
-  footer = "&copy; [Elizen](https://elizen.me) | since 2009"
+  description = "Work is not an end in itself; there must always be time enough for love."
+  footer = "&copy; [Wei XIE](https://xiewei.link) | since 2009"
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "tex"]
   highlightjsTheme = "github"
