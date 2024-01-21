@@ -6,29 +6,31 @@ title: Home
 
 ——*Robert A. Heinlein*
 
-Read more via my [ResearchGate](https://www.researchgate.net/profile/Wei-Xie-9) or [CV](https://cv.xiewei.link)
-
 <!-- Read more via [Tags](/tags/) or [CV](https://cv.xiewei.link) -->
 
 
 ## Publication
 
-Initializing Data Upload Sequence... 
+[Selected Publications >>](/papers/)
 
-Please Stand By for Galactic Information Influx.
+Read more via my [ResearchGate](https://www.researchgate.net/profile/Wei-Xie-9) or [CV](https://cv.xiewei.link).
 
 <!-- {{< books >}} -->
 
 ## Coding
 
-Initializing Data Upload Sequence... 
+[GitHub >>](https://github.com/xiewei18).
 
 
 <!-- {{< movies >}} -->
 
 ## News
 
-Initializing Data Upload Sequence...
+Initializing Data Upload Sequence... 
+
+Please Stand By for Galactic Information Influx.
 
 ---
-![](images/Quotefancy.jpg)
+<!-- ![](images/Quotefancy.jpg) -->
+
+> Work is not an end in itself; there must always be time enough for love.

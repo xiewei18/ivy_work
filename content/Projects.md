@@ -17,7 +17,7 @@ As an essential resource for economic and industrial production, urban land area
 
 ### Publications
 
-Read more via [Papers](/Papers/).
+Read more via [Papers](/papers/).
 
 ## CTAMap 🧭
 
