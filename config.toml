@@ -1,6 +1,6 @@
 baseURL = "https://work.xiewei.link/"
 languageCode = "en-us"
-title = "SAIL - SAiling Into the Land"
+title = "Wei's Research"
 theme = "ivy"
 disqusShortname = "wei"
 hasCJKLanguage = true
@@ -37,7 +37,7 @@ footnotereturnlinkcontents = "↩"
 [params]
   # description abou this website
   description = "Work is not an end in itself; there must always be time enough for love."
-  footer = "&copy; [Wei XIE](https://xiewei.link) | since 2009"
+  footer = "&copy; [Wei XIE](https://xiewei.link) | diving into LAND & ECOSYSTEM."
   highlightjsCDN = "//cdn.bootcss.com"
   highlightjsLang = ["r", "yaml", "tex"]
   highlightjsTheme = "github"
