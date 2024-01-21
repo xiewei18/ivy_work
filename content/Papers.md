@@ -1,9 +1,9 @@
 ---
 title: "Selected Publications"
-author: wxie
+# author: wxie
 ---
 
-Here presents the recently publications, both with or without peer-review.
+Here presents recent publications related to GLUES project, both with or without peer-review.
 
 
 ## Peer-review
@@ -14,5 +14,5 @@ Here presents the recently publications, both with or without peer-review.
 
 ## Non peer-reviewed
 
-{{<book "/publication/covers/XIEetal_IIASA_2022.png" "Ecological network analysis of urban land resource use within China" "IIASA-YSSP report" "Applying system analysis and ecological network analysis to explore the input of land resources and virtual flows among full economic sectors with in China">}}
+{{<book "/publication/covers/XIE_IIASA_2022.png" "Ecological network analysis of urban land resource use within China" "IIASA-YSSP report" "Applying system analysis and ecological network analysis to explore the input of land resources and virtual flows among full economic sectors with in China">}}
 

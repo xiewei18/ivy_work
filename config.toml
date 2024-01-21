@@ -15,7 +15,7 @@ footnotereturnlinkcontents = "↩"
 [menu]
   [[menu.main]]
   name="Projs"
-  url="/#/"
+  url="/projects/"
   weight="1"
   [[menu.main]]
   name="Papers"
