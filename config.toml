@@ -19,14 +19,14 @@ footnotereturnlinkcontents = "↩"
   weight="1"
   [[menu.main]]
   name="Papers"
-  url="/bibliography/"
+  url="/papers/"
   weight="2"
   [[menu.main]]
   name="Talks"
   url="/#/"
   weight="3"
   [[menu.main]]
-  name="Codings"
+  name="Coding"
   url="https://github.com/xiewei18"
   weight="4"
   [[menu.main]]

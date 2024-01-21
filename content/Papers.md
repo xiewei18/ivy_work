@@ -1,18 +1,18 @@
 ---
-title: "Publications"
+title: "Selected Publications"
 author: wxie
-
 ---
 
 Here presents the recently publications, both with or without peer-review.
 
----
 
 ## Peer-review
 
-{{<book "https://r2.elizen.me/2023/06/97484a04193945e44b5950674d8b68ad.png" "莫言短篇小说精品系列" "莫言" "如果我没记错，这套系列作品是莫言自己编的，其中第二本《秋水》中有一篇《白狗秋千架》，对我影响极大，它对于社会和命运，赋予了我认为最好的诠释，除此之外，它真得在聊人性，人与人之间最本真的那一部分。">}}
+{{<book "/publication/covers/XIEetal_RCR_2024.png" "Urban sector land use metabolism reveals inequalities across cities and inverse virtual land flows" "Resources, Conservation and Recycling" "In large cities, we know about virtual land use for crops, but what about non-agricultural products driving urban economies? ✨ Through a novel full sector inventory, we unveils urban land use and its impact on economy, exposing inequalities among cities in resource input and environmental benefits.">}}
+
+{{<book "/publication/covers/XIEetal_JIE_2021.png" "Estimation of entity‐level land use and its application in urban sectoral land use footprint: A bottom‐up model with emerging geospatial data" "Journal of Industrial Ecology" "We developed a bottom-up model to estimate the entity-level land use in urban areas, and utilized it to generate a spatial-explicit full-sector land use inventory in a mega-city.">}}
 
 ## Non peer-reviewed
 
-{{<book "https://r2.elizen.me/2023/06/a2b9532152a410d2653614f5b5630a8a.png" "间谍与叛徒" "[英]本·麦金泰尔" "历史被描述的方式有很多种，见光的和见不得光的，二战里那些相互之间私下签订的盟约，冷战期间美苏的谍战，都是揭开历史丑陋面纱的木棒，轻巧，却又沉重，间谍与叛徒用极度舒适的文笔记录了这段有趣的历史，强烈推荐。">}}
+{{<book "/publication/covers/XIEetal_IIASA_2022.png" "Ecological network analysis of urban land resource use within China" "IIASA-YSSP report" "Applying system analysis and ecological network analysis to explore the input of land resources and virtual flows among full economic sectors with in China">}}
 
