@@ -26,17 +26,20 @@ Read more via my [ResearchGate](https://www.researchgate.net/profile/Wei-Xie-9) 
 
 ## Publication
 
-Initializing Data Upload Sequence... Please Stand By for Galactic Information Influx.
+Initializing Data Upload Sequence... 
+
+Please Stand By for Galactic Information Influx.
 
 <!-- {{< books >}} -->
 
 ## Coding
 
-Initializing Data Upload Sequence... Please Stand By for Galactic Information Influx.
+Initializing Data Upload Sequence... 
+
 
 <!-- {{< movies >}} -->
 
 ## News
 
-Initializing Data Upload Sequence... Please Stand By for Galactic Information Influx.
+Initializing Data Upload Sequence...
 
