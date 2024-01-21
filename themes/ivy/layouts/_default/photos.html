@@ -5,7 +5,7 @@
   {{ range (readDir "./static/photos") }}
   <figure>
     <!-- <img src="https://cdn.jsdelivr.net/gh/elizen/elizen-blog@gh-pages/photos/{{ .Name }}" alt="{{ .Name }}" /> -->
-    <img src="https://work.xiewei.link/static/photos/{{ .Name }}" alt="{{ .Name }}" />
+    <img src="https://work.xiewei.link/photos/{{ .Name }}" alt="{{ .Name }}" />
     <figcaption>{{ .Name | replaceRE "(.*)[.].*" "$1"}}</figcaption>
   </figure>
   {{ end }}
